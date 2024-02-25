@@ -1,1 +1,2 @@
 # TipCalculator
+# Javascript frontend project
